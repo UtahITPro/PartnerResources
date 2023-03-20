@@ -3,7 +3,7 @@ layout: page
 title: AI & ML Academy Home
 description: Workshop focused on AI & ML
 permalink: /skilling/ai-ml-academy
-updated: 2022-10-17
+updated: 2023-03-20
 showbreadcrumb: true
 tags:
 - azure
