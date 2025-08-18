@@ -14,10 +14,10 @@ tags:
 - ai & ml academy
 ---
 
-# 🧠 Partner Academy Newsletter  
-### **July 2025 Edition**
+# 🧠 Partner Academy: AI Newsletter
+### **August 2025 Edition**
  
-Welcome to the July edition of the Partner Academy Newsletter! This month, we spotlight major updates across Azure AI, new skilling resources, and a real-world success story that showcases the transformative power of Microsoft AI.
+Welcome to the August edition of the Partner Academy AI Newsletter! This month, we spotlight major updates across Azure AI, new skilling resources, and a real-world success story that showcases the transformative power of Microsoft AI.
  
 ---
  
